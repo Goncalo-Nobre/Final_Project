@@ -6,4 +6,4 @@ Created on Wed Aug 26 16:56:01 2020
 """
 
 
-web gunicorn app:app
+web: gunicorn app:app
